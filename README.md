@@ -5,4 +5,4 @@ It will include some Supervised learning algorithms along with some neural netwo
 First module is completed with certification
 
 started second module. week one completed
-started week 2
+started week 2 and will comple it soon
