@@ -6,3 +6,5 @@ First module is completed with certification
 
 started second module. week one completed
 started week 2 and will comple it soon
+
+second module is now completed
