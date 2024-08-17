@@ -8,3 +8,5 @@ started second module. week one completed
 started week 2 and will comple it soon
 
 second module is now completed
+
+The modules are completed and the certification ia available in the linkedin
